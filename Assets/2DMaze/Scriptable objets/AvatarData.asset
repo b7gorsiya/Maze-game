@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2a05c5504d163c24b858765596dc720b, type: 3}
+  m_Name: AvatarData
+  m_EditorClassIdentifier: 
+  avtarPrice_list: 0000000032000000c80000005e010000f4010000c2010000bc0200005203000052030000e8030000
+  speed_data:
+  - 30
+  - 35
+  - 40
+  - 45
+  - 50
+  - 55
+  - 70
+  - 80
+  - 85
+  - 95
+  armours_data: 0000000002000000010000000200000003000000040000000500000007000000060000000a000000
+  extra_time: 000000000000000004000000040000000500000005000000050000000a000000090000000c000000
